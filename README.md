@@ -5,7 +5,7 @@ This resource doesn't match with well known bone_attach, you can not use the sam
 
 
 # Documentation
-You can find the documentation on Wiki page. [(click here)](https://github.com/Patrick2562/mtasa-pAttach/wiki)
+You can find the documentation on Wiki page. [(click here)](https://github.com/gptrk0/mtasa-pAttach/wiki)
 
 
 # Performance Comparison

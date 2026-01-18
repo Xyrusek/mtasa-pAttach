@@ -7,7 +7,7 @@
  | |
  |_|
 
- -- https://github.com/Patrick2562/mtasa-pAttach
+ -- https://github.com/gptrk0/mtasa-pAttach
  -- https://mtasa.com/discord
 ]]
  
