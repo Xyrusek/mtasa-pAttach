@@ -392,7 +392,7 @@ pAttach = {
         self.preparedToRenderInstances = tbl
 
         if len > 0 and not self.pedsProcessedAdded then
-            addEventHandler("onClientPedsProcessed", root, self.onPedsProcessed)
+            addEventHandler("onClientPedsProcessed", root, self.onPedsProcessed, true, OPTIONS["pedsProcessedPriority"] or "low-9999")
             self.pedsProcessedAdded = true
 
         elseif len == 0 and self.pedsProcessedAdded then

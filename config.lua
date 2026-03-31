@@ -19,7 +19,8 @@ UPDATE = true -- change this to 'false' if you don't want to check for new relea
 OPTIONS = {
     toggleCollisions = true, -- change this to 'false' if you want to manage collisions by yourself
     dimensionChanges = true, -- change this to 'false' if you want to manage dimension changes by yourself
-    interiorChanges  = true  -- change this to 'false' if you want to manage interior changes by yourself
+    interiorChanges  = true,  -- change this to 'false' if you want to manage interior changes by yourself
+    pedsProcessedPriority = "low-9999" -- change this to a different priority if you want to render bone modifications at a different time
 }
 -------------------------------------------------------------------------------------------------------
 
